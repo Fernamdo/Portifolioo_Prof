@@ -11,7 +11,7 @@ Este é um portfólio pessoal desenvolvido para apresentar a trajetória, forma�
 - `projetos.html` — Projetos desenvolvidos e/ou participados.
 - `exp.html` — Experiências profissionais detalhadas.
 - `style.css` — Estilos visuais do portfólio.
-- `img/` — Imagens utilizadas no site (perfil, dashboards, etc).
+- `imagem/` — Imagens utilizadas no site (perfil, dashboards, etc).
 
 ## 🚀 Como Visualizar
 
@@ -21,8 +21,8 @@ Este é um portfólio pessoal desenvolvido para apresentar a trajetória, forma�
 
 ## 📸 Imagens
 
-- `img/perfil.jpg` — Foto de perfil.
-- `img/dash.jpg` — Exemplo de dashboard utilizado em projetos.
+- `imgagem/perfil.jpg` — Foto de perfil.
+- `imgagem/dash.jpg` — Exemplo de dashboard utilizado em projetos.
 
 ## 📄 Funcionalidades
 
